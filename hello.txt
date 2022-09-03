@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hello git by git-lhc
+hello git by git-lhc2
 hello git master text
 hello git 
 hellop hhot-fix
