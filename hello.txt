@@ -2,4 +2,4 @@ hello git
 hellop
 git
 phello git
-wq
+w
